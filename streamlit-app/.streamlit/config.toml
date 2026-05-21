@@ -1,0 +1,17 @@
+[general]
+email = "your_email@example.com"
+# Add your email for Streamlit sharing notifications
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+# Configure server settings for deployment
+
+[theme]
+primaryColor = "#F39C12"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F7F7"
+textColor = "#333333"
+font = "sans serif"
+# Customize the appearance of the Streamlit app
